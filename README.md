@@ -1,6 +1,6 @@
 ### Hi there👋
 
-🤳Like homeLab and all kinds of novel technologies
+🤳Like homeLab and all kinds of Interesting technologies
 
 👀My Blog：[Halcyon Zone](https://halc.top)
 
