@@ -1,9 +1,9 @@
 ### Hi there👋
 
-🤳喜欢和各种性格的人打交道，从别人眼中看看更大的世界
+## 世界尽在眼前
 
-👀我的博客：[Halcyon Zone](https://halc.top)
+👀My Blog：[Halcyon Zone](https://halc.top)
 
-📧邮箱：halc-days@outlook.com
+📧My Email：halc-days@outlook.coms
 
 ![HalcyonAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalcyonAzure&show_icons=true&theme=gruvbox)
