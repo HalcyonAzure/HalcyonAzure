@@ -1,5 +1,3 @@
-### Hi there👋
-
 ## 世界尽在眼前
 
 👀My Blog：[Halcyon Zone](https://halc.top)
